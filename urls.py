@@ -1,0 +1,5 @@
+URL_CREATE_COURIER = 'https://qa-scooter.praktikum-services.ru/api/v1/courier'
+URL_LOGIN = 'https://qa-scooter.praktikum-services.ru/api/v1/courier/login'
+URL_DELETE_COURIER = 'https://qa-scooter.praktikum-services.ru/api/v1/courier/'
+URL_CREATE_ORDER = 'https://qa-scooter.praktikum-services.ru/api/v1/orders'
+URL_GET_ALL_ORDERS = 'https://qa-scooter.praktikum-services.ru/api/v1/orders'
